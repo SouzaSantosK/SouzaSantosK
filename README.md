@@ -1,8 +1,10 @@
-Bem-vindo 👋 ao KSC/Place
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="">
+</div>
 ============================================================================================================================
 
-* 🌍  São Paulo, SP, Brasil
-* ✉️  Email: [kaua.souza.santosc@gmail.com](mailto:kaua.souza.santosc@gmail.com)
+- 🌍  São Paulo, SP, Brasil
+- ✉️  Email: [kaua.souza.santosc@gmail.com](mailto:kaua.souza.santosc@gmail.com)
 
 ### Linguagens
 
@@ -24,7 +26,7 @@ Bem-vindo 👋 ao KSC/Place
       <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=SouzaSantosK&theme=github_dark" />
 </a>
 
-<!-- 
+<!--
 ### Badges (Credly)
 <a href="https://www.credly.com/badges/68ef4550-ce38-4229-9009-a1aa447ec09e/public_url" target="_blank" rel="noreferrer">
   <img />
