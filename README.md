@@ -1,45 +1,31 @@
-<img class="hero-banner" src="./src/Hero-banners/dark-souls.gif" style="width: 100" alt="dark-souls gif">
+<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Olá, bem-vindo!</h1>
 
-# SouzaSantosK 🪐
 
-Bem vindo ao meu perfil do github, ainda está passando por alterações mas espero que goste!
+Bem vindo ao meu perfil do github. Sou estudante de redes, infraestrutura e programação. Atualmente estudando Python, e aprimorando minhas habilidades em administração de redes e automação.
+Obrigado por visitar e sinta-se livre para se [conectar](https://www.linkedin.com/in/souzasantosk/)!
 
 ## ℹ Infos
 
-- 🌍  São Paulo, SP, Brasil
-- ✉️  [kaua.souza.santosc@gmail.com](mailto:kaua.souza.santosc@gmail.com)
-- 💻 Cursando Desenvolvimento de Sistemas
+- 🌍 São Paulo, SP, Brasil
+- ✉️ [kaua.souza.santosc@gmail.com](mailto:kaua.souza.santosc@gmail.com)
+- 💻 Cursando Redes de Computadores
+- 🛜 Cisco CCNA 1, 2 e 3 v7
+- ☁️ Azure AI-900 e DP-900
+- ☁️ AWS Cloud Practitioner
 
-<!--   <div class="socials">
-  <a href="https://www.github.com/SouzaSantosK" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" />
-  </picture>
-  </a>
-<a href="https://www.linkedin.com/in/souzasantosk" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" />
-  </picture>
-  </a>
-</div>  -->
-
-## ☕ Linguagens
+## ☕ Ferramentas que utilizo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-
-## 📊 Estatísticas
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouzaSantosK&layout=donut&langs_count=8&theme=github_dark" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SouzaSantosK&theme=github_dark" height="200" />
-</div>
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
 
 ## [Badges Credly](https://www.credly.com/users/kaua-santos.ab2ae53e)
 
@@ -49,3 +35,7 @@ Bem vindo ao meu perfil do github, ainda está passando por alterações mas esp
     <img src="./src/Badges/ai-900.png" width="100" height="100" />
     <img src="./src/Badges/dp-900.png" width="100" height="100" />
 </div>
+
+<h3>Onde me encontrar</h3>
+<p><a href="https://github.com/souzasantosk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/souzasantosk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kaua.souza.santosc@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
